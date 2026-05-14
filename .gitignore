@@ -1,0 +1,16 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상환경
+venv/
+.env
+
+# Symphony 결과물 (개인 데이터 보호 및 저장소 용량 절약)
+workspaces/
+ai_result.md
+
+# OS 관련
+.DS_Store
+Thumbs.db
